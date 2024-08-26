@@ -1,0 +1,1 @@
+# QA-27-diplome
