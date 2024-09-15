@@ -5,7 +5,8 @@ import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
-import pages.HomePage;
+import ui.pages.HomePage;
+import ui.pages.HomePage;
 
 
 @Tag("web")
