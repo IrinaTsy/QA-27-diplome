@@ -12,7 +12,7 @@ import ui.pages.ActionPage;
 @Owner("Цыганкова Ирина")
 @Feature("HomePage")
 @DisplayName("UI: навигация по разделам сайта")
-public class aPage extends TestBase {
+public class APage extends TestBase {
 
     ActionPage aPage = new ActionPage();
 

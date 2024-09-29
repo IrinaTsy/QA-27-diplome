@@ -1,17 +1,8 @@
 package ui.pages;
 
 import com.codeborne.selenide.*;
-import com.codeborne.selenide.selector.ByTagAndText;
 import io.qameta.allure.Step;
-import ui.tests.TestBase;
-
-import java.util.ArrayList;
-import java.util.List;
-
 import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Condition.value;
-import static com.codeborne.selenide.Selectors.byCssSelector;
-import static com.codeborne.selenide.Selectors.byTagAndText;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverConditions.url;
 

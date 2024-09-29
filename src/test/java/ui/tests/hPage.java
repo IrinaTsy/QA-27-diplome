@@ -6,7 +6,6 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import ui.pages.HomePage;
-import ui.pages.HomePage;
 
 
 @Tag("web")
@@ -14,7 +13,7 @@ import ui.pages.HomePage;
 @Feature("HomePage")
 @DisplayName("UI: навигация по разделам сайта")
 
-public class hPage extends TestBase {
+public class HPage extends TestBase {
 
     HomePage hPage = new HomePage();
 
